@@ -1,0 +1,35 @@
+<Sentence id="1">
+1	موٗلس	N_NN	
+2	پٮ۪ٹھے	PSP	
+3	چُھ	V_VAUX	
+4	کُل	N_NN	
+5	دٔرتھ	V_VM	
+6	کھسوُن	JJ	
+7	تٕہ	CC_CCD	
+8	وسوُن	JJ	
+9	شاہ	N_NN	
+10	چُھ	V_VAUX	
+11	اتھ	DM_DMD	
+12	سگ	N_NN	
+13	دِوان	V_VM	
+14	تٕہ	CC_CCD	
+15	یِہ	DM_DMD	
+16	چُھ	V_VAUX	
+17	یموٕے	DM_DMD	
+18	سۭتۍ	PSP	
+19	پوچھر	N_NN	
+20	لبان۔	V_VM	
+</Sentence>
+
+<Sentence id="2">
+1	یِمے	PR_PRP	
+2	چِھ	V_VAUX	
+3	اتھ	DM_DMD	
+4	لنگ	N_NN	
+5	لنجِہ	N_NN	
+6	پن	N_NN	
+7	تٕہ	CC_CCD	
+8	پوش	N_NN	
+9	بخشان۔	V_VM	
+</Sentence>
+

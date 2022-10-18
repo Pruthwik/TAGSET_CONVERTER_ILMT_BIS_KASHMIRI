@@ -1,0 +1,35 @@
+<Sentence id="1">
+1	موٗلس	NN	
+2	پٮ۪ٹھے	PSP	
+3	چُھ	VAUX	
+4	کُل	NN	
+5	دٔرتھ	VM	
+6	کھسوُن	JJ	
+7	تٕہ	CC	
+8	وسوُن	JJ	
+9	شاہ	NN	
+10	چُھ	VAUX	
+11	اتھ	DEM	
+12	سگ	NN	
+13	دِوان	VM	
+14	تٕہ	CC	
+15	یِہ	DEM	
+16	چُھ	VAUX	
+17	یموٕے	DEM	
+18	سۭتۍ	PSP	
+19	پوچھر	NN	
+20	لبان۔	VM	
+</Sentence>
+
+<Sentence id="2">
+1	یِمے	PRP	
+2	چِھ	VAUX	
+3	اتھ	DEM	
+4	لنگ	NN	
+5	لنجِہ	NN	
+6	پن	NN	
+7	تٕہ	CC	
+8	پوش	NN	
+9	بخشان۔	VM	
+</Sentence>
+
